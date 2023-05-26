@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		50ED041E2A1F165300CD6E54 /* FoodTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50ED041D2A1F165300CD6E54 /* FoodTableViewController.swift */; };
 		50F2CB432A1DD5230071A418 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50F2CB422A1DD5230071A418 /* AppDelegate.swift */; };
 		50F2CB452A1DD5230071A418 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50F2CB442A1DD5230071A418 /* ViewController.swift */; };
 		50F2CB482A1DD5230071A418 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50F2CB462A1DD5230071A418 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		50ED041D2A1F165300CD6E54 /* FoodTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTableViewController.swift; sourceTree = "<group>"; };
 		50F2CB3F2A1DD5230071A418 /* eggplant.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = eggplant.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50F2CB422A1DD5230071A418 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		50F2CB442A1DD5230071A418 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				50F2CB442A1DD5230071A418 /* ViewController.swift */,
+				50ED041D2A1F165300CD6E54 /* FoodTableViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 			files = (
 				50F2CB572A1E06190071A418 /* Item.swift in Sources */,
 				50F2CB452A1DD5230071A418 /* ViewController.swift in Sources */,
+				50ED041E2A1F165300CD6E54 /* FoodTableViewController.swift in Sources */,
 				50F2CB552A1E054D0071A418 /* Refeicao.swift in Sources */,
 				50F2CB432A1DD5230071A418 /* AppDelegate.swift in Sources */,
 			);
